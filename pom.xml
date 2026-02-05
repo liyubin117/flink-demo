@@ -221,6 +221,7 @@
             <id>flink-1.16</id>
             <properties>
                 <flink.version>1.16.0</flink.version>
+                <flink.main.version>1.16</flink.main.version>
                 <jackson.databind.version>2.14.0</jackson.databind.version>
                 <junit.jupiter.version>5.9.1</junit.jupiter.version>
                 <kafka.version>3.2.2</kafka.version>
